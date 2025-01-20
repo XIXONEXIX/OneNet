@@ -8,6 +8,7 @@ Table of Contents
 
 Introduction
 
+
 Core Components
 
 Aria AI Core
@@ -25,6 +26,7 @@ Reinforcement Learning (RL)
 Communication Interface
 
 Knowledge Integration
+
 
 System Requirements
 
